@@ -8,10 +8,10 @@
             "type": "node",
             "request": "launch",
             "name": "debug",
-            "program": "${workspaceFolder}\\dist\\index.js",
+            "program": "${workspaceFolder}\\index.js",
             "preLaunchTask": "tsc: build - tsconfig.json",
             "outFiles": [
-                "${workspaceFolder}/dist/**/*.js"
+                "${workspaceFolder}/**/*.js"
             ],
             "sourceMaps": true
         }
