@@ -1,12 +1,13 @@
 {
   "name": "ts_test",
-  "version": "1.0.0",
-  "description": "",
+  "version": "4.3.2.1",
+  "description": "1",
   "main": "index.js",
   "scripts": {
     "build": "tsc --build tsconfig.json"
   },
-  "author": "",
+  "author": "222",
+  "author3": "333",
   "license": "ISC",
   "devDependencies": {
   },
